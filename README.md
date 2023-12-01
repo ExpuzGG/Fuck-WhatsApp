@@ -1,4 +1,4 @@
-## Tools-WhatsApp
+## Fuck-WhatsApp
 Spam Brutal WhatsApp 24 jam non stop
 
 <details open>
@@ -9,9 +9,9 @@ Spam Brutal WhatsApp 24 jam non stop
   pkg install nano
   pkg install git
   pkg install python
-  git clone https://github.com/AmmarrBN/Tools-WhatsApp
+  git clone https://github.com/ExpuzGG/Fuck-WhatsApp
   bash install.sh
-  cd Tools-WhatsApp
+  cd Fuck-WhatsApp
   python main.py
   ```
   </details>
@@ -32,11 +32,11 @@ Spam Brutal WhatsApp 24 jam non stop
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **24 Jam non stop** |[✔️](https://github.com/AmmarrBN) |
-| **Brutal Spam** |[✔️](https://github.com/AmmarrBN) |
-| **Simple** |[✔️](https://github.com/AmmarrBN) |
-| **No Encrypt** |[✔️](https://github.com/AmmarrBN) |
-| **Subscribe** |[Here](https://youtube.com/channel/UCyyIDnXYJlRI_-2pAQqKr0g) |
+| **24 Jam non stop** |[✔️] |
+| **Brutal Spam** |[✔️] |
+| **Simple** |[✔️]|
+| **No Encrypt** |[✔️] |
+| **FOLLOW** |[Here](https://instagram.com/expuz_) |
 ---------
 
 <details open>
@@ -50,9 +50,4 @@ Spam Brutal WhatsApp 24 jam non stop
         time.sleep(10) # Waktu Delay Bisa Atur Sendiri
   ```
   </details>
-
-> SUBSCRIBE MY CHANNEL >_<
-
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ)
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ)
 
